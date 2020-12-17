@@ -1,10 +1,8 @@
 # Stop Tab Title Flashing
 
-These are annoying.
-
 ![Bad Tabs](./bad_tabs.png)
 
-...
+These are annoying.
 
 Turn them into these.
 
