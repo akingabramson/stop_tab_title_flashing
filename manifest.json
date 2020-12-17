@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Stop Tab Title Flashing",
   "version": "0.0.1",
-  "description": "Keep pinned tab titles from flashing. Based on: https://webapps.stackexchange.com/questions/74830/how-to-disable-the-flashing-title-when-someone-messages-me-on-facebook",
+  "description": "Keep pinned tab titles from flashing.",
   "icons": {
     "16": "icon_16.png",
     "48": "icon_48.png",
