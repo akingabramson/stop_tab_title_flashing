@@ -4,7 +4,7 @@ These are annoying.
 
 ![Bad Tabs](./bad_tabs.png)
 
-Freeze their titles so they don't distract you.
+Freeze their titles so they don't distract you. Like below.
 
 ![Good Tabs](./good_tabs.png)
 
