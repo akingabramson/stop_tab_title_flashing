@@ -1,10 +1,10 @@
 # Stop Tab Title Flashing
 
-![Bad Tabs](./bad_tabs.png)
-
 These are annoying.
 
-Turn them into these.
+![Bad Tabs](./bad_tabs.png)
+
+Freeze their titles so they don't distract you.
 
 ![Good Tabs](./good_tabs.png)
 
