@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Stop Tab Title Flashing",
   "version": "0.0.1",
-  "description": "Keep pinned tab titles from flashing.",
+  "description": "Keep tab titles from flashing.",
   "icons": {
     "16": "icon_16.png",
     "48": "icon_48.png",

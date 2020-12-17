@@ -2,11 +2,11 @@
 
 These are annoying.
 
-![Bad Tabs](./bad_tabs.png)
+![Bad Tabs](./images/bad_tabs.png)
 
 Freeze their titles so they don't distract you. Like below.
 
-![Good Tabs](./good_tabs.png)
+![Good Tabs](./images/good_tabs.png)
 
 ## Usage
 
