@@ -8,7 +8,7 @@ Freeze their titles so they don't distract you. Like below.
 
 ![Good Tabs](./images/good_tabs.png)
 
-## Usage
+# Usage
 
 Install from the Chrome app store, or load the unpacked extension yourself.
 
